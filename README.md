@@ -56,7 +56,7 @@ The inefficiencies of this program can become serious. Optimizations may be made
 
 Storing the statistical profile (an enormous tree) consumes a lot of memory.  Use the `-m [MB]` flag to allocate more memory to the underlying node process.  If not enough is available, decrease the window size (`-w [WindowSize]`).
 
-#License
+# License
 
 Copyright 2019 Will Brickner.
 
